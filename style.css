@@ -1,0 +1,38 @@
+nav {
+    background-color: #5d7891;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+
+}
+
+nav .nav-links a {
+    font-size: 30px;  
+margin: 0 20px
+
+
+}
+
+nav .nav-links a {
+    color: #1d1c2c; /* ← pick any colour you want */
+}
+
+
+body {
+
+* 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: times new roman;
+font-size: 18px;
+
+    background-color: #d4d8f7;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
