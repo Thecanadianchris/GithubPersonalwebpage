@@ -88,6 +88,13 @@ input[type="submit"] {
 
 }
 
+.my-text-h2 {
+  text-align: center;
+}
+
+
+
+
 footer {
     background-color: #5d7891;
     color: white;
