@@ -46,14 +46,6 @@ img.center {
 
 
 
-
-
-
-
-
-
-
-
 h1 {
     text-align: center;
 }
@@ -65,15 +57,36 @@ h1 {
 }
 
 
+.big-center {
+  font-size: 22px;
+  text-align: center;
+
+}
 
 
 
 
 
+.form-group {
+    margin-bottom: 20px;
+}
 
+.section {
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 40px;
+    width: 800px
+}
 
+input[type="submit"] {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
 
-
+}
 
 footer {
     background-color: #5d7891;
